@@ -16,7 +16,17 @@
 - 🌱 Currently learning Machine Learning & AI
 - 💼 Looking for Software Engineering opportunities
 - ❤️ I enjoy building web applications and AI projects
+---
 
+## 💻 Tech Stack
+
+<p align="left">
+
+<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,vite,python,java,mysql,git,github,vscode,figma" />
+
+</p>
+
+---
 ---
 
 ## 🚀 Current Projects
