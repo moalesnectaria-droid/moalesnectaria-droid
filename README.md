@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hi 👋 I'm Maria Nistor-Terente
 
-<!--
-**moalesnectaria-droid/moalesnectaria-droid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Computer Science Student at the University of Westminster
 
-Here are some ideas to get you started:
+💻 Frontend Developer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🤖 Machine Learning Enthusiast
+
+📍 United Kingdom
+
+---
+
+## 👩‍💻 About Me
+
+- 🎓 BSc Computer Science Student
+- 🌱 Currently learning Machine Learning & AI
+- 💼 Looking for Software Engineering opportunities
+- ❤️ I enjoy building web applications and AI projects
+
+---
+
+## 🚀 Current Projects
+
+- Breast Cancer Prediction System
+- React Portfolio Website
+- Machine Learning Internship
+- Frontend Development Internship
