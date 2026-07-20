@@ -24,11 +24,11 @@
 
 ---
 
-# 👩‍💻 About Me
+#  About Me
 
 <img align="right" width="340" src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif"/>
 
-🎓 **Bachelor of Science in Computer Science**
+ **Bachelor of Science in Computer Science**
 
 University of Westminster
 
@@ -51,14 +51,10 @@ University of Westminster
 
 ###  Career Goals
 
-✔ Graduate Software Engineer
-
-✔ Frontend Developer
-
-✔ Machine Learning Engineer
-
-✔ AI Engineer
-
+ Graduate Software Engineer
+ Frontend Developer
+ Machine Learning Engineer
+ AI Engineer
 ✔ Open Source Contributor
 
 ---
@@ -74,7 +70,6 @@ University of Westminster
 
 <br clear="right"/>
 
----
 
 #  Tech Stack
 
