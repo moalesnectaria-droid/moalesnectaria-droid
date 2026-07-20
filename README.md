@@ -4,77 +4,93 @@
 
 ### Computer Science Student • Frontend Developer • AI & Machine Learning
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3500&pause=1000&center=true&vCenter=true&width=700&lines=Frontend+Developer;Machine+Learning+Enthusiast;Computer+Science+Student;Always+Learning+New+Technologies;Welcome+to+my+GitHub!" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=750&lines=Computer+Science+Student;Frontend+Developer;Machine+Learning+Enthusiast;Building+Modern+Web+Applications;Always+Learning+Something+New"/>
 
 <br>
 
 <a href="https://www.linkedin.com/in/maria-nectaria-nistor">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="mailto:moalesnectaria@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 <a href="https://nectaria-portofolio2026.vercel.app">
-<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+<img src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 
 </div>
 
 ---
 
-# 💫 About Me
+# 👩‍💻 About Me
 
-<img align="right" width="350" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif"/>
+<img align="right" width="340" src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif"/>
 
-🎓 **BSc Computer Science Student**  
+🎓 **Bachelor of Science in Computer Science**
+
 University of Westminster
 
-💻 **Frontend Development Intern**
+ **Frontend Development Intern**
+ **Machine Learning Intern**
+ Based in **London, United Kingdom**
 
-🤖 **Machine Learning Intern**
+---
 
-🌱 Currently learning
+###  Currently Learning
 
 - Artificial Intelligence
 - Machine Learning
+- React Ecosystem
+- REST APIs
 - Backend Development
 - Cloud Computing
-- Software Engineering
 
-🚀 Interested in
+---
 
-- Frontend Development
-- AI Applications
+###  Career Goals
+
+✔ Graduate Software Engineer
+
+✔ Frontend Developer
+
+✔ Machine Learning Engineer
+
+✔ AI Engineer
+
+✔ Open Source Contributor
+
+---
+
+###  Interests
+
+- Modern UI Design
+- Web Development
+- Artificial Intelligence
 - Machine Learning
-- Full Stack Development
+- Data Science
 - Software Engineering
-
-📍 London, United Kingdom
-
-💼 Open to
-
-- Placement Opportunities
-- Graduate Roles
-- Frontend Developer Roles
-- Software Engineer Roles
 
 <br clear="right"/>
 
 ---
 
-# ⚡ Tech Stack
+#  Tech Stack
 
 <div align="center">
 
 ### Languages
 
-<img src="https://skillicons.dev/icons?i=python,java,js,html,css,mysql"/>
+<img src="https://skillicons.dev/icons?i=python,java,javascript,html,css,mysql"/>
 
-### Frameworks & Libraries
+<br><br>
+
+### Frameworks
 
 <img src="https://skillicons.dev/icons?i=react,vite,tailwind"/>
+
+<br><br>
 
 ### Tools
 
@@ -84,13 +100,13 @@ University of Westminster
 
 ---
 
-# 📊 GitHub Statistics
+#  GitHub Statistics
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=moalesnectaria-droid&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=moalesnectaria-droid&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=moalesnectaria-droid&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=moalesnectaria-droid&layout=compact&theme=github_dark&hide_border=true"/>
 
 </div>
 
@@ -98,204 +114,226 @@ University of Westminster
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=moalesnectaria-droid&theme=tokyonight&hide_border=true"/>
+<img src="https://streak-stats.demolab.com?user=moalesnectaria-droid&theme=github-dark-blue&hide_border=true"/>
 
 </div>
 
 ---
 
-# 📈 Contribution Graph
+#  Development Environment
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=moalesnectaria-droid&theme=tokyo-night&hide_border=true"/>
+| IDE | Version Control | Design | Operating System |
+|:---:|:---:|:---:|:---:|
+| VS Code | Git & GitHub | Figma | Windows |
 
 </div>
 
 ---
-# 🚀 Featured Projects
+
+#  Contribution Graph
 
 <div align="center">
 
-| Project | Description | Technologies |
-|---------|-------------|--------------|
-| 🩷 **Breast Cancer Prediction System** | Machine Learning model for breast cancer diagnosis using classification algorithms and data visualization. | `Python` `Scikit-Learn` `Pandas` `NumPy` `Matplotlib` |
-| 🌐 **Personal Portfolio** | Responsive portfolio showcasing my projects, skills and experience. | `React` `Vite` `Tailwind CSS` |
-| ⚛️ **Frontend Development Internship** | Developed responsive web interfaces and reusable UI components. | `HTML` `CSS` `JavaScript` `React` |
-| 🤖 **Machine Learning Internship** | Worked on data preprocessing, exploratory data analysis and predictive models. | `Python` `Pandas` `Scikit-Learn` |
-| ☁️ **Weather Dashboard** | Interactive weather application using REST APIs with a responsive interface. | `JavaScript` `HTML` `CSS` `API` |
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=moalesnectaria-droid&theme=github-dark&hide_border=true"/>
 
 </div>
 
 ---
 
-# 💼 Experience
+#  Quick Overview
 
-## 💻 Frontend Development Intern
+```text
+ Name        : Maria Nistor-Terente
+University : University of Westminster
+ Role       : Frontend Developer
+ Focus      : Artificial Intelligence
+ Learning   : Machine Learning
+ Location   : London, United Kingdom
+ Goal       : Graduate Software Engineer
+```
+
+---
+#  Featured Projects
+
+<div align="center">
+
+| Project | Description |
+|:---------|:------------|
+|  **Breast Cancer Prediction System** | Machine Learning application using Python and Scikit-Learn for breast cancer diagnosis. |
+|  **Personal Portfolio** | Responsive portfolio built with React, Vite and Tailwind CSS. |
+|  **Machine Learning Projects** | Data preprocessing, visualization and predictive models. |
+|  **Frontend Development Internship** | Responsive interfaces using React and modern JavaScript. |
+
+</div>
+
+---
+
+##  Breast Cancer Prediction System
+
+Machine Learning application that predicts breast cancer diagnosis using classification algorithms.
+
+### Technologies
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=python"/>
+
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas"/>
+
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy"/>
+
+<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn"/>
+
+</p>
+
+---
+
+##  Personal Portfolio
+
+Modern portfolio showcasing projects, skills and experience.
+
+### Technologies
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=react"/>
+
+<img src="https://skillicons.dev/icons?i=vite"/>
+
+<img src="https://skillicons.dev/icons?i=tailwind"/>
+
+</p>
+
+---
+
+##  Experience
+
+###  Frontend Development Intern
 
 - Built responsive user interfaces
-- Improved UI/UX using modern frontend technologies
 - Worked with reusable React components
+- Improved website responsiveness
 - Collaborated using Git & GitHub
 
 ---
 
-## 🤖 Machine Learning Intern
+###  Machine Learning Intern
 
-- Data preprocessing
-- Exploratory Data Analysis (EDA)
-- Model training & evaluation
+- Data Cleaning
+- Feature Engineering
+- Exploratory Data Analysis
 - Logistic Regression
 - Random Forest
-- Data Visualization
+- Model Evaluation
 
 ---
 
-## 🎓 Education
+##  Education
 
 ### University of Westminster
 
-**Bachelor of Science (BSc)**
-
+Bachelor of Science
 Computer Science
+Expected Graduation
 
-Expected Graduation: **2028**
+**2028**
 
 ---
 
-# 🌱 Currently Learning
+#  Currently Learning
 
 <div align="center">
 
 | Frontend | Backend | AI |
-|----------|----------|------|
-| React.js | Node.js | Machine Learning |
-| Tailwind CSS | Express.js | Deep Learning |
+|:---------|:--------|:---|
+| React | Node.js | Machine Learning |
+| Tailwind | Express | Deep Learning |
 | TypeScript | REST APIs | Computer Vision |
-| Next.js | MongoDB | Artificial Intelligence |
+| Next.js | MongoDB | Neural Networks |
 
 </div>
 
 ---
 
-# 🎯 2026 Goals
+#  Goals
 
-- ✅ Complete Placement Year
-- 🚀 Build more Full Stack Projects
-- 🤖 Improve Machine Learning skills
-- 🌍 Contribute to Open Source
-- ☁️ Learn Cloud Computing
-- 💼 Secure a Graduate Software Engineer role
-
----
-
-# 🏆 Certifications
-
-- 🎓 Frontend Development Internship
-- 🤖 Machine Learning Internship
-- 🏅 Celonis Process Mining Fundamentals
-- 📘 Microsoft Learn
-- 🚀 NVIDIA Developer Program
-- 💻 Software Engineering Simulations (Forage)
+-  Complete Placement Year successfully
+-  Become a Graduate Software Engineer
+-  Contribute to Open Source
+-  Learn Cloud Computing
+-  Improve AI & Machine Learning knowledge
+-  Build more Full Stack Applications
 
 ---
 
-# 📂 Highlighted Repositories
+#  Certifications
 
-### 🩷 Breast Cancer Prediction
-
-Machine Learning project using predictive models for breast cancer diagnosis.
-
-**Tech Stack**
-
-`Python` `Scikit-Learn` `Pandas`
-
----
-
-### 🌐 Portfolio Website
-
-Responsive portfolio showcasing projects and experience.
-
-**Tech Stack**
-
-`React`
-
-`Tailwind CSS`
-
-`Vite`
+-  Frontend Development Internship
+-  Machine Learning Internship
+-  Celonis Process Mining Fundamentals
+-  Microsoft Learn
+-  NVIDIA Developer Program
+-  Software Engineering Simulations
 
 ---
 
-### ☁️ Weather Dashboard
+#  Favorite Technologies
 
-Weather application using public REST APIs.
+<div align="center">
 
-**Tech Stack**
+<img src="https://skillicons.dev/icons?i=react,python,java,javascript,tailwind,vite,git,github,vscode"/>
 
-`JavaScript`
-
-`CSS`
-
-`HTML`
+</div>
 
 ---
-
-### 📊 Data Analysis Projects
-
-Data cleaning, visualization and machine learning experiments.
-
-**Tech Stack**
-
-`Python`
-
-`Pandas`
-
-`Matplotlib`
-
-`NumPy`
-
----
-
-# 📈 Coding Journey
+#  Career Timeline
 
 ```text
-2024  ██████████ Started Computer Science
+2024
+██████████
+Started BSc Computer Science
+↓
+2025
+████████████████
+Frontend Development
+↓
+2026
+██████████████████████
+Machine Learning Internship
+↓
+2027
+██████████████████████████
+Placement Year
+↓
+2028
+██████████████████████████████
 
-2025  ██████████████████ Frontend Development
-
-2026  ███████████████████████ Machine Learning
-
-2027  █████████████████████████ Graduate Software Engineer
+Graduate Software Engineer
 ```
 
 ---
 
-# 💡 Favorite Quote
+#  What I'm Looking For
 
-> *"First, solve the problem. Then, write the code."*  
-> **— John Johnson**
-
+ Graduate Software Engineer Opportunities
+ Frontend Developer Roles
+ AI / Machine Learning Projects
+ Open Source Collaboration
+ Exciting Tech Communities
+ 
 ---
-# 🏅 GitHub Achievements
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=moalesnectaria-droid&theme=tokyonight&no-frame=true&no-bg=true&row=2&column=4"/>
-
-</div>
-
----
-
-# 📫 Let's Connect
+#  Connect With Me
 
 <div align="center">
 
 <a href="mailto:moalesnectaria@gmail.com">
-<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 <a href="https://www.linkedin.com/in/maria-nectaria-nistor">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="https://nectaria-portofolio2026.vercel.app">
@@ -306,93 +344,43 @@ Data cleaning, visualization and machine learning experiments.
 
 ---
 
-# 💖 Thanks for Visiting!
+#  GitHub Achievements
 
 <div align="center">
 
-### ⭐ If you like my work, consider giving a star to my repositories!
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
+<img src="https://github-profile-trophy.vercel.app/?username=moalesnectaria-droid&theme=algolia&no-frame=true&margin-w=15&margin-h=15"/>
 
 </div>
 
 ---
 
-# 📊 Profile Views
+#  Profile Views
 
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=moalesnectaria-droid&label=Profile%20Views&color=7B68EE&style=for-the-badge"/>
+<img src="https://komarev.com/ghpvc/?username=moalesnectaria-droid&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
 
 </div>
 
 ---
-
-# 🐍 Contribution Snake
-
-> **⚠️ This animation works only after adding a GitHub Action workflow.**
-
+#  Favorite Quote
 <div align="center">
-
-<img src="https://raw.githubusercontent.com/moalesnectaria-droid/moalesnectaria-droid/output/github-contribution-grid-snake-dark.svg"/>
-
+> **"First, solve the problem. Then, write the code."**  
+> *— John Johnson*
 </div>
-
----
-
-# 💻 Developer Environment
-
-<div align="center">
-
-| Category | Tools |
-|----------|-------|
-| 💻 IDE | VS Code |
-| 🌐 Browser | Microsoft Edge / Chrome |
-| 🛠 Version Control | Git & GitHub |
-| 🎨 Design | Figma |
-| 📚 Learning | Microsoft Learn, NVIDIA, Celonis |
-
-</div>
-
----
-
-# 📈 Weekly Development Breakdown
+# 📈 Weekly Coding
 
 ```text
-Python             ████████████████████░░░░░ 80%
+Python             ████████████████████░░░ 80%
 
-JavaScript         ████████████████░░░░░░░░░ 65%
+JavaScript         █████████████████░░░░░░ 70%
 
-React              █████████████████░░░░░░░ 70%
+React              ███████████████████░░░░ 75%
 
-Java               ██████████████░░░░░░░░░░ 60%
+Java               ███████████████░░░░░░░░ 65%
 
-Machine Learning   ███████████████████░░░░░ 75%
+Machine Learning   ████████████████████░░░ 80%
 
-HTML & CSS         ███████████████████████░ 90%
-```
-
----
-
-# 🌟 Fun Facts
-
-- 🎓 Computer Science student at the University of Westminster
-- 💻 Passionate about creating modern web applications
-- 🤖 Exploring Artificial Intelligence & Machine Learning
-- 🌱 Always learning new technologies
-- ☕ Coffee + Code = Productivity
-- 🚀 Goal: Become a Software Engineer building impactful products
+HTML & CSS         ██████████████████████░ 90%
 
 ---
-
-<div align="center">
-
-## Thanks for stopping by! 👋
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1000&center=true&width=500&lines=Thanks+for+visiting!;Happy+Coding!;See+you+again+soon!"/>
-
-<br><br>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,100:4F46E5&height=120&section=footer"/>
-
-</div>
