@@ -25,7 +25,17 @@
 <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,vite,python,java,mysql,git,github,vscode,figma" />
 
 </p>
+## 📊 GitHub Stats
 
+<p align="center">
+
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=moalesnectaria-droid&show_icons=true&theme=tokyonight&hide_border=true" />
+
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=moalesnectaria-droid&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
 ---
 ---
 
