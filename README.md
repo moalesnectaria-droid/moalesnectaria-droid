@@ -254,20 +254,6 @@ Expected Graduation
 | Next.js | MongoDB | Neural Networks |
 
 </div>
-
----
-
-#  Goals
-
--  Complete Placement Year successfully
--  Become a Graduate Software Engineer
--  Contribute to Open Source
--  Learn Cloud Computing
--  Improve AI & Machine Learning knowledge
--  Build more Full Stack Applications
-
----
-
 #  Certifications
 
 -  Frontend Development Internship
@@ -286,34 +272,6 @@ Expected Graduation
 <img src="https://skillicons.dev/icons?i=react,python,java,javascript,tailwind,vite,git,github,vscode"/>
 
 </div>
-
----
-#  Career Timeline
-
-```text
-2024
-██████████
-Started BSc Computer Science
-↓
-2025
-████████████████
-Frontend Development
-↓
-2026
-██████████████████████
-Machine Learning Internship
-↓
-2027
-██████████████████████████
-Placement Year
-↓
-2028
-██████████████████████████████
-
-Graduate Software Engineer
-```
-
----
 
 #  What I'm Looking For
 
@@ -335,40 +293,17 @@ Graduate Software Engineer
 <a href="https://www.linkedin.com/in/maria-nectaria-nistor">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-
 <a href="https://nectaria-portofolio2026.vercel.app">
 <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
-
 </div>
 
----
-
-#  GitHub Achievements
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=moalesnectaria-droid&theme=algolia&no-frame=true&margin-w=15&margin-h=15"/>
-
-</div>
-
----
-
-#  Profile Views
-
-<div align="center">
-
-<img src="https://komarev.com/ghpvc/?username=moalesnectaria-droid&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
-
-</div>
-
----
 #  Favorite Quote
 <div align="center">
 > **"First, solve the problem. Then, write the code."**  
 > *— John Johnson*
 </div>
-# 📈 Weekly Coding
+#  Weekly Coding
 
 ```text
 Python             ████████████████████░░░ 80%
