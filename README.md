@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Hi, I'm Maria Nistor-Terente
+# 👋 Hi, I'm Maria-Nectaria  Nistor-Terente
 
 ### Computer Science Student • Frontend Developer • AI & Machine Learning
 
