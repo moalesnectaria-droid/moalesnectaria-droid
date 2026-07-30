@@ -114,17 +114,6 @@ University of Westminster
 | VS Code | Git & GitHub | Figma | Windows |
 
 </div>
-
----
-
-#  Contribution Graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=moalesnectaria-droid&theme=github-dark&hide_border=true"/>
-
-</div>
-
 ---
 
 #  Quick Overview
