@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Hi, I'm Maria-Nectaria  Nistor-Terente
+#  Hi, I'm Maria-Nectaria  Nistor-Terente
 
 ### Computer Science Student • Frontend Developer • AI & Machine Learning
 
@@ -149,26 +149,6 @@ University : University of Westminster
  Goal       : Graduate Software Engineer
 ```
 
----
-#  Featured Projects
-
-<div align="center">
-
-| Project | Description |
-|:---------|:------------|
-|  **Breast Cancer Prediction System** | Machine Learning application using Python and Scikit-Learn for breast cancer diagnosis. |
-|  **Personal Portfolio** | Responsive portfolio built with React, Vite and Tailwind CSS. |
-|  **Machine Learning Projects** | Data preprocessing, visualization and predictive models. |
-|  **Frontend Development Internship** | Responsive interfaces using React and modern JavaScript. |
-
-</div>
-
----
-
-##  Breast Cancer Prediction System
-
-Machine Learning application that predicts breast cancer diagnosis using classification algorithms.
-
 ### Technologies
 
 <p>
@@ -182,12 +162,6 @@ Machine Learning application that predicts breast cancer diagnosis using classif
 <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn"/>
 
 </p>
-
----
-
-##  Personal Portfolio
-
-Modern portfolio showcasing projects, skills and experience.
 
 ### Technologies
 
@@ -292,25 +266,3 @@ Expected Graduation
 <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 </div>
-
-#  Favorite Quote
-<div align="center">
-> **"First, solve the problem. Then, write the code."**  
-> *— John Johnson*
-</div>
-#  Weekly Coding
-
-```text
-Python             ████████████████████░░░ 80%
-
-JavaScript         █████████████████░░░░░░ 70%
-
-React              ███████████████████░░░░ 75%
-
-Java               ███████████████░░░░░░░░ 65%
-
-Machine Learning   ████████████████████░░░ 80%
-
-HTML & CSS         ██████████████████████░ 90%
-
----
