@@ -93,18 +93,6 @@ University of Westminster
 
 </div>
 
----
-
-<br>
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=moalesnectaria-droid&theme=github-dark-blue&hide_border=true"/>
-
-</div>
-
----
-
 #  Development Environment
 
 <div align="center">
