@@ -55,7 +55,7 @@ University of Westminster
  Frontend Developer
  Machine Learning Engineer
  AI Engineer
-✔ Open Source Contributor
+ Open Source Contributor
 
 ---
 
