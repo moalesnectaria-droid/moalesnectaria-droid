@@ -32,8 +32,8 @@
 
 University of Westminster
 
- **Frontend Development Intern**
- **Machine Learning Intern**
+ **Frontend Development Intern x1 time**
+ **Machine Learning Intern x2 time**
  Based in **London, United Kingdom**
 
 ---
