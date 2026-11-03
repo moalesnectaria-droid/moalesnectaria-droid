@@ -1,235 +1,158 @@
-<div align="center">
+# Hi, I'm Maria-Nectaria Nistor-Terente 👋
 
-#  Hi, I'm Maria-Nectaria  Nistor-Terente
+### Computer Science Student | Software Developer | AI & Machine Learning Enthusiast
 
-### Computer Science Student • Frontend Developer • AI & Machine Learning
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=750&lines=Computer+Science+Student;Frontend+Developer;Machine+Learning+Enthusiast;Building+Modern+Web+Applications;Always+Learning+Something+New"/>
-
-<br>
-
-<a href="https://www.linkedin.com/in/maria-nectaria-nistor">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="mailto:moalesnectaria@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://nectaria-portofolio2026.vercel.app">
-<img src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=vercel&logoColor=white"/>
-</a>
-
-</div>
+🎓 BSc Computer Science at the **University of Westminster**  
+📍 London, United Kingdom  
+💻 Building projects, exploring new technologies and developing practical software engineering skills.
 
 ---
 
-#  About Me
+## About Me
 
-<img align="right" width="340" src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif"/>
+I'm a Computer Science student passionate about building software, exploring emerging technologies and continuously improving my technical skills.
 
- **Bachelor of Science in Computer Science**
+My interests span across **software engineering, frontend development, artificial intelligence and machine learning**.
 
-University of Westminster
+Through university projects, internships, personal development and volunteering, I'm gaining practical experience in developing applications, solving technical problems and collaborating on digital initiatives.
 
- **Frontend Development Intern x1 time**
- **Machine Learning Intern x2 time**
- Based in **London, United Kingdom**
+Currently, I'm particularly interested in:
+- Software Engineering and Application Development
+- Frontend and Full-Stack Development
+- Artificial Intelligence and Machine Learning
+- Cybersecurity
+- Open-Source Collaboration
 
 ---
 
-###  Currently Learning
+## Current Focus
 
+| Area | Current Focus |
+|---|---|
+| Frontend Development | React, TypeScript, Tailwind CSS |
+| Backend Development | Python, Django, REST APIs |
+| Artificial Intelligence | Machine Learning, Model Evaluation |
+| Cybersecurity | Exploring Security Fundamentals |
+| Software Engineering | Application Design, Problem Solving, Git |
+
+---
+
+## Experience
+
+**Frontend Developer Intern — SyntecxHub**  
+`August 2026 – Present`
+
+- Developing frontend applications and user interfaces.
+- Working with modern frontend technologies.
+- Improving practical development and problem-solving skills.
+- Using Git and GitHub for version control.
+
+**Machine Learning Internship Experience**
+
+- Data preprocessing and cleaning.
+- Exploratory Data Analysis (EDA).
+- Feature engineering.
+- Machine learning model development.
+- Logistic Regression and Random Forest.
+- Model evaluation and performance analysis.
+
+**Digital Volunteering — Romania United Foundation / GlobalRomania**
+
+- Contributing to digital initiatives and community platforms.
+- Supporting digital projects and volunteer collaboration.
+- Exploring digital tools and platform management.
+
+---
+
+## Featured Projects
+
+###  Breast Cancer Prediction System
+**Python | Machine Learning | Scikit-learn | Pandas**
+
+A machine learning project using the Breast Cancer Wisconsin Dataset to explore data analysis, predictive modelling and model evaluation.
+
+###  Personal Portfolio
+**React | Vite | Tailwind CSS**
+
+A personal portfolio showcasing my technical skills, projects, experience and development journey.
+
+###  Habit Tracker
+**React | TypeScript | Tailwind CSS**
+
+A frontend application focused on habit tracking, user interaction and building reusable components.
+
+---
+
+## Technical Skills
+
+**Languages**
+
+`Java` `Python` `JavaScript` `TypeScript` `SQL` `HTML` `CSS`
+
+**Frontend**
+
+`React` `Vite` `Tailwind CSS` `Redux`
+
+**Backend & Databases**
+
+`Django` `REST APIs` `SQL`
+
+**AI & Data Science**
+
+`Scikit-learn` `Pandas` `NumPy` `Machine Learning`
+
+**Tools & Platforms**
+
+`Git` `GitHub` `VS Code` `Figma` `Jupyter Notebook`
+
+---
+
+## Education
+
+**University of Westminster**
+
+Bachelor of Science (BSc) in Computer Science
+
+Developing a strong foundation in:
+- Programming and Software Development
+- Object-Oriented Programming
+- Database Systems
+- Mathematics for Computing
 - Artificial Intelligence
-- Machine Learning
-- React Ecosystem
-- REST APIs
-- Backend Development
-- Cloud Computing
+- Cybersecurity
 
 ---
 
-###  Career Goals
+## Certifications & Professional Development
 
- Graduate Software Engineer
- Frontend Developer
- Machine Learning Engineer
- AI Engineer
- Open Source Contributor
-
----
-
-###  Interests
-
-- Modern UI Design
-- Web Development
-- Artificial Intelligence
-- Machine Learning
-- Data Science
-- Software Engineering
-
-<br clear="right"/>
-
-
-#  Tech Stack
-
-<div align="center">
-
-### Languages
-
-<img src="https://skillicons.dev/icons?i=python,java,javascript,html,css,mysql"/>
-
-<br><br>
-
-### Frameworks
-
-<img src="https://skillicons.dev/icons?i=react,vite,tailwind"/>
-
-<br><br>
-
-### Tools
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,figma"/>
-
-</div>
-
-#  Development Environment
-
-<div align="center">
-
-| IDE | Version Control | Design | Operating System |
-|:---:|:---:|:---:|:---:|
-| VS Code | Git & GitHub | Figma | Windows |
-
-</div>
----
-
-#  Quick Overview
-
-```text
- Name        : Maria Nistor-Terente
-University : University of Westminster
- Role       : Frontend Developer
- Focus      : Artificial Intelligence
- Learning   : Machine Learning
- Location   : London, United Kingdom
- Goal       : Graduate Software Engineer
-```
-
-### Technologies
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=python"/>
-
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas"/>
-
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy"/>
-
-<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn"/>
-
-</p>
-
-### Technologies
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=react"/>
-
-<img src="https://skillicons.dev/icons?i=vite"/>
-
-<img src="https://skillicons.dev/icons?i=tailwind"/>
-
-</p>
+- Celonis — Process Mining Fundamentals
+- Microsoft Learn
+- NVIDIA Developer Program
+- Forage — Software Engineering Job Simulations
+- Bright Network — Internship Experience UK
+- Major League Hacking — Global Hack Week
 
 ---
 
-##  Experience
+## Career Interests
 
-###  Frontend Development Intern
+I'm interested in opportunities that allow me to grow as a software developer, contribute to meaningful projects and collaborate with people who are passionate about technology.
 
-- Built responsive user interfaces
-- Worked with reusable React components
-- Improved website responsiveness
-- Collaborated using Git & GitHub
-
----
-
-###  Machine Learning Intern
-
-- Data Cleaning
-- Feature Engineering
-- Exploratory Data Analysis
-- Logistic Regression
-- Random Forest
-- Model Evaluation
+**Areas of interest:**
+- Graduate Software Engineering
+- Frontend & Full-Stack Development
+- Artificial Intelligence & Machine Learning
+- Cybersecurity
+- Open-Source Projects
 
 ---
 
-##  Education
+## Let's Connect
 
-### University of Westminster
+**Portfolio:** [nectaria-portofolio2026.vercel.app](https://nectaria-portofolio2026.vercel.app)
 
-Bachelor of Science
-Computer Science
-Expected Graduation
-
-**2028**
+ **GitHub:** [@moalesnectaria-droid](https://github.com/moalesnectaria-droid)
 
 ---
 
-#  Currently Learning
-
-<div align="center">
-
-| Frontend | Backend | AI |
-|:---------|:--------|:---|
-| React | Node.js | Machine Learning |
-| Tailwind | Express | Deep Learning |
-| TypeScript | REST APIs | Computer Vision |
-| Next.js | MongoDB | Neural Networks |
-
-</div>
-#  Certifications
-
--  Frontend Development Internship
--  Machine Learning Internship
--  Celonis Process Mining Fundamentals
--  Microsoft Learn
--  NVIDIA Developer Program
--  Software Engineering Simulations
-
----
-
-#  Favorite Technologies
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=react,python,java,javascript,tailwind,vite,git,github,vscode"/>
-
-</div>
-
-#  What I'm Looking For
-
- Graduate Software Engineer Opportunities
- Frontend Developer Roles
- AI / Machine Learning Projects
- Open Source Collaboration
- Exciting Tech Communities
- 
----
-#  Connect With Me
-
-<div align="center">
-
-<a href="mailto:moalesnectaria@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://www.linkedin.com/in/maria-nectaria-nistor">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-<a href="https://nectaria-portofolio2026.vercel.app">
-<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
-</a>
-</div>
+*Always learning. Always building. Always improving.* 🚀
